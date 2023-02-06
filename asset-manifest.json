@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d0ae22b.css",
+    "main.js": "/static/js/main.a9c94498.js",
+    "static/media/rav4.png": "/static/media/rav4.bf07969d277f6e9501a1.png",
+    "index.html": "/index.html",
+    "main.1d0ae22b.css.map": "/static/css/main.1d0ae22b.css.map",
+    "main.a9c94498.js.map": "/static/js/main.a9c94498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d0ae22b.css",
+    "static/js/main.a9c94498.js"
+  ]
+}
