@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/yehuda-landing-page/static/css/main.1d0ae22b.css",
-    "main.js": "/yehuda-landing-page/static/js/main.dd358850.js",
-    "static/media/rav4.png": "/yehuda-landing-page/static/media/rav4.bf07969d277f6e9501a1.png",
-    "index.html": "/yehuda-landing-page/index.html",
-    "main.1d0ae22b.css.map": "/yehuda-landing-page/static/css/main.1d0ae22b.css.map",
-    "main.dd358850.js.map": "/yehuda-landing-page/static/js/main.dd358850.js.map"
+    "main.css": "/yehuda-landing-page-dist/static/css/main.1d0ae22b.css",
+    "main.js": "/yehuda-landing-page-dist/static/js/main.39ac2105.js",
+    "static/media/rav4.png": "/yehuda-landing-page-dist/static/media/rav4.bf07969d277f6e9501a1.png",
+    "index.html": "/yehuda-landing-page-dist/index.html",
+    "main.1d0ae22b.css.map": "/yehuda-landing-page-dist/static/css/main.1d0ae22b.css.map",
+    "main.39ac2105.js.map": "/yehuda-landing-page-dist/static/js/main.39ac2105.js.map"
   },
   "entrypoints": [
     "static/css/main.1d0ae22b.css",
-    "static/js/main.dd358850.js"
+    "static/js/main.39ac2105.js"
   ]
 }
