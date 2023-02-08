@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/yehuda-landing-page-dist/static/css/main.3e998400.css",
-    "main.js": "/yehuda-landing-page-dist/static/js/main.8395d885.js",
+    "main.css": "/yehuda-landing-page-dist/static/css/main.c8d0bded.css",
+    "main.js": "/yehuda-landing-page-dist/static/js/main.de2e7fd0.js",
     "static/media/rav4.png": "/yehuda-landing-page-dist/static/media/rav4.bf07969d277f6e9501a1.png",
     "index.html": "/yehuda-landing-page-dist/index.html",
-    "main.3e998400.css.map": "/yehuda-landing-page-dist/static/css/main.3e998400.css.map",
-    "main.8395d885.js.map": "/yehuda-landing-page-dist/static/js/main.8395d885.js.map"
+    "main.c8d0bded.css.map": "/yehuda-landing-page-dist/static/css/main.c8d0bded.css.map",
+    "main.de2e7fd0.js.map": "/yehuda-landing-page-dist/static/js/main.de2e7fd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e998400.css",
-    "static/js/main.8395d885.js"
+    "static/css/main.c8d0bded.css",
+    "static/js/main.de2e7fd0.js"
   ]
 }
